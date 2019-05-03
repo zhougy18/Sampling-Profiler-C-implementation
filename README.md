@@ -8,6 +8,10 @@ Please first install "libunwind" library from "www.nongnu.org/libunwind/download
 ```
 gcc -o main main.c hotspots_sampling.c -lunwind -lunwind-x86_64
 ```
+or just
+```
+make
+```
 ## Running the tests
 sample at 500Hz
 ```
