@@ -17,7 +17,7 @@ sample at 500Hz
 ```
 ./main 500
 ```
-## Output
+## Outputs
 sample frequency: 500 Hz
 
 running time：1323.70 ms
