@@ -1,5 +1,6 @@
 # Sampling-Profiler-C-implementation
 A sampling profiler probes the target program's call stack at regular intervals using operating system interrupts.
+This project is used for demonstrating how to profile a program by sampling and has been tested on a Ubuntu 16.04 x86-64 machine.
 ## Getting Started
 ### Prerequisites
 Please first install "libunwind" library from "www.nongnu.org/libunwind/download.html".
