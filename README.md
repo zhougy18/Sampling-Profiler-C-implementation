@@ -8,7 +8,7 @@ Please first install "libunwind" library from "www.nongnu.org/libunwind/download
 ```
 gcc -o main main.c hotspots_sampling.c -lunwind -lunwind-x86_64
 ```
-or just
+ or just
 ```
 make
 ```
@@ -28,6 +28,6 @@ rtime(%)	 rtime(ms)	 name
   0.30  	    398.51    	 func_b  
   0.10  	    132.17    	 main  
   0.10  	    126.16  	   func_a
-  ## Authors
+  ## Author
 
 * **Chou Kuan Yu** - *Initial work* - [zhougy18](https://github.com/zhougy18)
