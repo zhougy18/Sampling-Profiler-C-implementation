@@ -31,3 +31,4 @@ rtime(%)	 rtime(ms)	 name
   ## Author
 
 * **Chou Kuan Yu** - *Initial work* - [zhougy18](https://github.com/zhougy18)
+email: zhougy18@mails.tsinghua.edu.cn
